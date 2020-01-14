@@ -1,10 +1,10 @@
 # Sentora live Installers
 
-## PLEASE DONT USE THESE INSTALLERS FILES. WORK IN PROGRESS!!!
+## PLEASE DONT USE THESE INSTALLER FILES. WORK IN PROGRESS!!!
 
 * Version: 1.0.3.1 or (v1.0.4) if/when Sentora accepts.
 
-## About this upgrade script:
+## About this script:
 * PHP 7.3.x support for all supported OS's
 * Replaces Suhosin 0.9.3x with Snuffleupagus for DISABLED_FUNCTIONS rules per vhost.
 * Apache_admin - Upgraded to support SSL, Snuffleupagus disable_functions, vhosts file written with Smarty .tpl files.
